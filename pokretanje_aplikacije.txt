@@ -1,0 +1,4 @@
+browser: "C:\Program Files\Google\Chrome\Application\chrome.exe" --args --user-data-dir="/tmp/chrome_dev_test" --disable-web-security
+
+pokretanje klijenta: npx elm-live src/Main.elm
+
